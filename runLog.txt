@@ -1,0 +1,6 @@
+ID Number: 1001
+Name: teacher
+Position: teacher1
+Department: cs
+List of student IDs: 1001.
+
